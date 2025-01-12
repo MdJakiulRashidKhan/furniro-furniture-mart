@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1",
+    "name": "Modern Sofa",
+    "title": "Sleek Gray Sofa",
+    "price": "$899.99",
+    "previousPrice": "$999.99",
+    "discount": "10%",
+    "description": "A sleek, comfortable sofa that complements any living room. Made with high-quality materials for durability and comfort.",
+    "size": "80 x 34 x 35 inches",
+    "color": "Gray",
+    "serialNo": "MSF-1234-5678",
+    "category": "Furniture",
+    "tags": ["Sofa", "Living Room", "Modern", "Comfortable"],
+    "share": ["Facebook", "Twitter", "Pinterest", "Instagram"],
+    "review": {
+      "rating": "4.5 ★★★★☆",
+      "comments": [
+        "Great quality, very comfortable!",
+        "The color matches perfectly with my living room decor."
+      ]
+    },
+    "additionalInformation": {
+      "material": "Upholstered in premium fabric",
+      "warranty": "3-year limited warranty",
+      "assemblyRequired": true,
+      "careInstructions": "Clean with a soft cloth, avoid abrasive cleaners.",
+      "deliveryTime": "Estimated delivery in 7-10 business days."
+    },
+    "image": "https://i.ibb.co.com/7rJ51GH/image-1.png"
+  },
+  {
+    "id": "2",
+    "name": "Wooden Dining Table",
+    "title": "Classic Wooden Dining Table",
+    "price": "$499.99",
+    "description": "This beautiful wooden dining table provides ample space for family gatherings and special occasions.",
+    "size": "60 x 36 x 30 inches",
+    "color": "Brown",
+    "serialNo": "WDT-7890-4321",
+    "category": "Furniture",
+    "tags": ["Dining Table", "Wooden", "Family", "Traditional"],
+    "share": ["Facebook", "Twitter", "Pinterest"],
+    "review": {
+      "rating": "4.0 ★★★★☆",
+      "comments": ["Sturdy and well-built.", "Perfect size for my dining room."]
+    },
+    "additionalInformation": {
+      "material": "Solid wood",
+      "warranty": "2-year limited warranty",
+      "assemblyRequired": true,
+      "careInstructions": "Wipe with a damp cloth, avoid direct sunlight.",
+      "deliveryTime": "Estimated delivery in 5-7 business days."
+    },
+    "image": "https://i.ibb.co.com/0YBp7mj/Images-1.png"
+  },
+  {
+    "id": "3",
+    "name": "Leather Office Chair",
+    "title": "Ergonomic Leather Office Chair",
+    "price": "$219.99",
+    "previousPrice": "$249.99",
+    "discount": "12%",
+    "description": "A stylish and ergonomic office chair designed for comfort during long working hours.",
+    "size": "24 x 24 x 40 inches",
+    "color": "Black",
+    "serialNo": "LOC-1357-2468",
+    "category": "Furniture",
+    "tags": ["Office Chair", "Ergonomic", "Leather", "Comfort"],
+    "share": ["Facebook", "Twitter", "LinkedIn"],
+    "review": {
+      "rating": "4.8 ★★★★★",
+      "comments": [
+        "Extremely comfortable for long hours of sitting.",
+        "High-quality leather and very sturdy."
+      ]
+    },
+    "additionalInformation": {
+      "material": "Leather upholstery with a steel frame",
+      "warranty": "5-year limited warranty",
+      "assemblyRequired": false,
+      "careInstructions": "Use a leather cleaner, avoid direct heat.",
+      "deliveryTime": "Estimated delivery in 3-5 business days."
+    },
+    "image": "https://i.ibb.co.com/pnqsXVq/image-3.png"
+  },
+  {
+    "id": "4",
+    "name": "Decorative Floor Lamp",
+    "title": "Elegant Gold Floor Lamp",
+    "price": "$159.99",
+    "discount": "New",
+    "description": "Add an elegant touch to any room with this decorative floor lamp, featuring a modern design and adjustable light settings.",
+    "size": "65 x 12 x 12 inches",
+    "color": "Gold",
+    "serialNo": "DFL-9876-5432",
+    "category": "Lighting",
+    "tags": ["Floor Lamp", "Decorative", "Lighting", "Modern"],
+    "share": ["Instagram", "Pinterest", "Facebook"],
+    "review": {
+      "rating": "4.2 ★★★★☆",
+      "comments": [
+        "Beautiful design and adds warmth to the room.",
+        "The gold finish looks amazing with my decor."
+      ]
+    },
+    "additionalInformation": {
+      "material": "Metal base with fabric shade",
+      "warranty": "1-year limited warranty",
+      "assemblyRequired": true,
+      "careInstructions": "Dust regularly, clean with a soft cloth.",
+      "deliveryTime": "Estimated delivery in 10-12 business days."
+    },
+    "image": "https://i.ibb.co.com/yPTN5wL/image-4.png"
+  }
+]
